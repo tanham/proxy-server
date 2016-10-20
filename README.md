@@ -115,4 +115,8 @@ The follow http header(s) are supported:
 
 Specify the destination url on a per request basis. Overrides and follows the same format as the `--url` argument.
 
-I would like to return to this app and attempt the optionals. 
+#### Reflections
+
+* I would like to return to this app and attempt the optionals. 
+
+* I need to untrack node_modules folder 
