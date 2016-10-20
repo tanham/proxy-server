@@ -1,12 +1,12 @@
 "use strict"
 
-let http = require('http');
+let http = require('http')
 let fs = require('fs')
-let request = require('request');
+let request = require('request')
 
 
 
-let argv = require('yargs').argv;
+let argv = require('yargs').argv
 
 let logStream = argv.logfile ? fs.createWriteStream(argv.logfile) : process.stdout
 //cli >> --logfile log.txt

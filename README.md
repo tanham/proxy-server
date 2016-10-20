@@ -19,6 +19,8 @@ Completed:
 
 Walkthrough Gif:
 
+https://github.com/tanham/proxy-server/blob/master/proxy-walkthrough.gif
+
 ## Starting the Server
 
 ```bash
